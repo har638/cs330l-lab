@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- stock theme, no action bar (the screen is drawn full size) -->
+    <style name="Theme.Lab" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
